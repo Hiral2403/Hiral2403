@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiral2403
 - 👀 I’m interested in html,css,javascript,Reactjs
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on recatjs based project
+- 🌱 I’m currently learning React.js, Node.js
+- 💞️ I’m looking to collaborate on recat.js based project
 - 📫 How to reach me hiraalantala2002@gmail.com
 
 <!---
